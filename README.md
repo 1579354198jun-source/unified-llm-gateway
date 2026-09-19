@@ -155,7 +155,7 @@ unified-llm-gateway/
 
 这些属于技术服务范畴，可以在 Issues 留言，或直接联系维护者。
 
-**联系方式**：在本仓库 [Issues](../../issues) 留言即可，看到就回。
+**联系方式**：邮箱 `1579354198@qq.com`，或在本仓库 [Issues](../../issues) 留言，看到就回。
 
 ## License
 
