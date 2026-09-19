@@ -1,0 +1,22 @@
+{
+  "name": "unified-llm-gateway",
+  "version": "0.1.0",
+  "description": "多模型统一接入层：统一调用、自动切换、用量统计、成本可算（OpenAI 兼容协议）",
+  "main": "index.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "llm",
+    "ai",
+    "api",
+    "gateway",
+    "openai-compatible",
+    "deepseek",
+    "qwen",
+    "glm",
+    "kimi"
+  ],
+  "license": "MIT"
+}
